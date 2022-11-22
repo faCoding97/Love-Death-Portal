@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Table_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 005c09e2a552e9b4f9044cb7fb1b7238, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 115715596288
+    m_Localized: Comienzo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 644667662336
+    m_Localized: Opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 734694203392
+    m_Localized: Salida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2048220192768
+    m_Localized: Brillo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2137202352128
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2240688414720
+    m_Localized: Efectos de sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2813894582272
+    m_Localized: "Resoluci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3549105741824
+    m_Localized: Pantalla completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32614944595968
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32620372025344
+    m_Localized: Sobre nosotros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32621009559552
+    m_Localized: Aplicar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32622553063424
+    m_Localized: Quieres salir del juego?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32623928795136
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33394003009536
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33395814948864
+    m_Localized: Quieres guardar los cambios?
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
